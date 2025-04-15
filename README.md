@@ -1,7 +1,6 @@
-# Calculo de Triangulo △
+# Cálculo do Triângulo △
 
 
 ## Descrição Geral
 
-É um programa que que serve para calcular a area de um triangulo 
-com uma leve interface feita com os recursos dentro do netbeans
+É um programa que serve para calcular a área de um triângulo com uma leve interface feita com recursos do NetBeans
